@@ -14,6 +14,7 @@ Open source OCR models for Indic Languages
 | Marathi | [anuvaad_mar.traineddata](https://anuvaad-pubnet-weights.s3.amazonaws.com/anuvaad_mar.traineddata?AWSAccessKeyId=AKIAXX2AMEIRJY2GNYVZ&Signature=aTu5Ps9hL90clfPMZIVOEPx5%2Fl0%3D&Expires=1698743699)|
 | Odia | [anuvaad_ori.traineddata](https://anuvaad-pubnet-weights.s3.amazonaws.com/anuvaad_ori.traineddata?AWSAccessKeyId=AKIAXX2AMEIRJY2GNYVZ&Signature=5aqEjjOryEhE4ElV2i8oHgVY%2F7I%3D&Expires=1698743792)|
 | Tamil | [anuvaad_tam.traineddata](https://anuvaad-pubnet-weights.s3.amazonaws.com/anuvaad_tam.traineddata?AWSAccessKeyId=AKIAXX2AMEIRJY2GNYVZ&Signature=X6%2BwKdeOyOUFlOFs%2B7eRmzhziZ0%3D&Expires=1693557258)|
+| Telugu | [anuvaad_tel.traineddata](https://anuvaad-pubnet-weights.s3-us-west-2.amazonaws.com/anuvaad_tel.traineddata)|
 
 <br><br>
 
@@ -29,3 +30,15 @@ Open source OCR models for Indic Languages
 | Scene-Text Judgement Lline Detection V1 | [scene_text_judgement_line_detection_v1_model.pth](https://anuvaad-pubnet-weights.s3.amazonaws.com/scene_text_judgement_line_detection_v1_model.pth?AWSAccessKeyId=AKIAXX2AMEIRJY2GNYVZ&Signature=zTv5bP4Pt6NoLN%2FLUC7JrLBBrxs%3D&Expires=1705824951)|
 <br><br>
 
+<a name="pm"></a>
+## Layout Detection Models
+
+
+| Language | Model |
+|----------|-------|
+| Anuvaad Judgement Line Detection | [anuvaad_line_v1.pth](https://anuvaad-pubnet-weights.s3.amazonaws.com/anuvaad_line_v1.pth)|
+| Anuvaad Scene-Text Line Detection | [scene_text_judgement_line_detection_v1_model.pth](https://anuvaad-pubnet-weights.s3.amazonaws.com/scene_text_judgement_line_detection_v1_model.pth)|
+| Anuvaad Judgement Layout | [model_final.pth](https://anuvaad-pubnet-weights.s3.amazonaws.com/model_final.pth)|
+| Anuvaad Table Layout | [judgement_prima_table_layout_modelv3.pth](https://anuvaad-pubnet-weights.s3.amazonaws.com/judgement_prima_table_layout_modelv3.pth|
+
+<br><br>
