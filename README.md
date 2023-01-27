@@ -27,6 +27,5 @@ Open source OCR models for Indic Languages
 | Hindi | [anuvad_hin_scene_text_real.traineddata](https://anuvaad-pubnet-weights.s3.amazonaws.com/anuvad_hin_scene_text_real.traineddata?AWSAccessKeyId=AKIAXX2AMEIRJY2GNYVZ&Signature=FZ6Whiiv8uTYDkPGUvMzqoOKPOI%3D&Expires=1709212126)|
 | Tamil | [anuvad_tam_scene_text_real.traineddata](https://anuvaad-pubnet-weights.s3.amazonaws.com/anuvad_tam_scene_text_real.traineddata?AWSAccessKeyId=AKIAXX2AMEIRJY2GNYVZ&Signature=J1NEp22bhsW7dO3kd8iN1VX7XtI%3D&Expires=1711538482)|
 | Scene-Text Judgement Lline Detection V1 | [scene_text_judgement_line_detection_v1_model.pth](https://anuvaad-pubnet-weights.s3.amazonaws.com/scene_text_judgement_line_detection_v1_model.pth?AWSAccessKeyId=AKIAXX2AMEIRJY2GNYVZ&Signature=zTv5bP4Pt6NoLN%2FLUC7JrLBBrxs%3D&Expires=1705824951)|
-| Scene-Text East Angle Detection | [east-model.ckpt-49491.data-00000-of-00001](https://anuvaad-pubnet-weights.s3.amazonaws.com/east-model.ckpt-49491.data-00000-of-00001?AWSAccessKeyId=AKIAXX2AMEIRJY2GNYVZ&Signature=XbR8OnEhYISllPYYuYkzFhmovUY%3D&Expires=1707278033)|
 <br><br>
 
