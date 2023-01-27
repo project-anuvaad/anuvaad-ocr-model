@@ -6,7 +6,7 @@ Open source OCR models for Indic Languages
 
 
 | Language | Model |
-|----------|-------|-------|
+|----------|-------|
 | Hindi | [anuvaad_hin.traineddata](https://anuvaad-pubnet-weights.s3.amazonaws.com/anuvaad_hin.traineddata?AWSAccessKeyId=AKIAXX2AMEIRJY2GNYVZ&Signature=2l%2F0OwWQrD%2FIvogfijATPufjMLA%3D&Expires=1693557740)|
 | Bengali | [anuvaad_ben.traineddata](https://anuvaad-pubnet-weights.s3.amazonaws.com/anuvaad_ben.traineddata?AWSAccessKeyId=AKIAXX2AMEIRJY2GNYVZ&Signature=ku%2FdynTtJVvaf55dwYC%2FMt3pKqo%3D&Expires=1698743313)|
 | Kannada | [anuvaad_kan.traineddata](https://anuvaad-pubnet-weights.s3.amazonaws.com/anuvaad_kan.traineddata?AWSAccessKeyId=AKIAXX2AMEIRJY2GNYVZ&Signature=gDiNsqrV0n2%2BWZSMwesyqkLOYZ8%3D&Expires=1694149503)|
@@ -23,7 +23,7 @@ Open source OCR models for Indic Languages
 
 
 | Language | Model |
-|----------|-------|-------|
+|----------|-------|
 | Hindi | [anuvad_hin_scene_text_real.traineddata](https://anuvaad-pubnet-weights.s3.amazonaws.com/anuvad_hin_scene_text_real.traineddata?AWSAccessKeyId=AKIAXX2AMEIRJY2GNYVZ&Signature=FZ6Whiiv8uTYDkPGUvMzqoOKPOI%3D&Expires=1709212126)|
 | Tamil | [anuvad_tam_scene_text_real.traineddata](https://anuvaad-pubnet-weights.s3.amazonaws.com/anuvad_tam_scene_text_real.traineddata?AWSAccessKeyId=AKIAXX2AMEIRJY2GNYVZ&Signature=J1NEp22bhsW7dO3kd8iN1VX7XtI%3D&Expires=1711538482)|
 | scene_text_judgement_line_detection_v1_model | [scene_text_judgement_line_detection_v1_model.pth](https://anuvaad-pubnet-weights.s3.amazonaws.com/scene_text_judgement_line_detection_v1_model.pth?AWSAccessKeyId=AKIAXX2AMEIRJY2GNYVZ&Signature=zTv5bP4Pt6NoLN%2FLUC7JrLBBrxs%3D&Expires=1705824951)|
