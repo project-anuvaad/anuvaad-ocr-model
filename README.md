@@ -39,6 +39,6 @@ Open source OCR models for Indic Languages
 | Anuvaad Judgement Line Detection | [anuvaad_line_v1.pth](https://anuvaad-pubnet-weights.s3.amazonaws.com/anuvaad_line_v1.pth)|
 | Anuvaad Scene-Text Line Detection | [scene_text_judgement_line_detection_v1_model.pth](https://anuvaad-pubnet-weights.s3.amazonaws.com/scene_text_judgement_line_detection_v1_model.pth)|
 | Anuvaad Judgement Layout | [model_final.pth](https://anuvaad-pubnet-weights.s3.amazonaws.com/model_final.pth)|
-| Anuvaad Table Layout | [judgement_prima_table_layout_modelv3.pth](https://anuvaad-pubnet-weights.s3.amazonaws.com/judgement_prima_table_layout_modelv3.pth|
+| Anuvaad Table Layout | [judgement_prima_table_layout_modelv3.pth](https://anuvaad-pubnet-weights.s3.amazonaws.com/judgement_prima_table_layout_modelv3.pth)|
 
 <br><br>
