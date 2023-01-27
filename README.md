@@ -4,6 +4,7 @@ Open source OCR models for Indic Languages
 <a name="pm"></a>
 ## Tesseract Language Models
 
+Below models are trained using [Tesseract-OCR](https://github.com/tesseract-ocr).
 
 | Language | Model |
 |----------|-------|
@@ -33,6 +34,7 @@ Open source OCR models for Indic Languages
 <a name="pm"></a>
 ## Layout Detection Models
 
+Below layout models are trained using [Layout Parser(Detectron2)](https://github.com/Layout-Parser/layout-model-training).
 
 | Language | Model |
 |----------|-------|
