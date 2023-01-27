@@ -5,7 +5,7 @@ This repository contains ocr model links for popular Indian languages developed 
 >
 Please reach out to nlp-nmt@tarento.com for any clarification/interpretation/usage of the linked datasets.
 
-This work is licensed under ![MIT](https://github.com/project-anuvaad/anuvaad-ocr-model/blob/feature_branch/LICENCE)
+This work is licensed under ![MIT](https://github.com/project-anuvaad/anuvaad-ocr-model/blob/master/LICENSE)
 <a name="pm"></a>
 ## Tesseract Language Models
 
